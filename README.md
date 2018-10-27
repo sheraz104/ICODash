@@ -1,7 +1,7 @@
 # ICODash
 
 
-##API endpoint
+## API endpoint
 ```
 GET /getBalance/:crowdsaleAddress/:userAddress
 ```
